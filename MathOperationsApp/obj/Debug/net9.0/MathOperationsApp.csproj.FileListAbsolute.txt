@@ -1,0 +1,15 @@
+c:\Users\ermol\OneDrive\Desktop\5 семестр\Новая папка\Project_II\MathOperationsApp\bin\Debug\net9.0\MathOperationsApp.exe
+c:\Users\ermol\OneDrive\Desktop\5 семестр\Новая папка\Project_II\MathOperationsApp\bin\Debug\net9.0\MathOperationsApp.deps.json
+c:\Users\ermol\OneDrive\Desktop\5 семестр\Новая папка\Project_II\MathOperationsApp\bin\Debug\net9.0\MathOperationsApp.runtimeconfig.json
+c:\Users\ermol\OneDrive\Desktop\5 семестр\Новая папка\Project_II\MathOperationsApp\bin\Debug\net9.0\MathOperationsApp.dll
+c:\Users\ermol\OneDrive\Desktop\5 семестр\Новая папка\Project_II\MathOperationsApp\bin\Debug\net9.0\MathOperationsApp.pdb
+c:\Users\ermol\OneDrive\Desktop\5 семестр\Новая папка\Project_II\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ermol\OneDrive\Desktop\5 семестр\Новая папка\Project_II\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.AssemblyInfoInputs.cache
+c:\Users\ermol\OneDrive\Desktop\5 семестр\Новая папка\Project_II\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.AssemblyInfo.cs
+c:\Users\ermol\OneDrive\Desktop\5 семестр\Новая папка\Project_II\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.csproj.CoreCompileInputs.cache
+c:\Users\ermol\OneDrive\Desktop\5 семестр\Новая папка\Project_II\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.sourcelink.json
+c:\Users\ermol\OneDrive\Desktop\5 семестр\Новая папка\Project_II\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.dll
+c:\Users\ermol\OneDrive\Desktop\5 семестр\Новая папка\Project_II\MathOperationsApp\obj\Debug\net9.0\refint\MathOperationsApp.dll
+c:\Users\ermol\OneDrive\Desktop\5 семестр\Новая папка\Project_II\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.pdb
+c:\Users\ermol\OneDrive\Desktop\5 семестр\Новая папка\Project_II\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.genruntimeconfig.cache
+c:\Users\ermol\OneDrive\Desktop\5 семестр\Новая папка\Project_II\MathOperationsApp\obj\Debug\net9.0\ref\MathOperationsApp.dll
